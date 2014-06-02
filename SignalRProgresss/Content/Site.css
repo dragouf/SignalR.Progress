@@ -1,0 +1,48 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.dropdown-menu li{
+    padding: 0 6px;
+}
+.dropdown-menu > li i {
+    color: #A52A2A;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: normal;
+    padding: 3px 4px;
+}
+.dropdown-menu .progress {
+    height:20px;
+    margin: 4px 0;
+}
+ul.dropdown-menu {
+    min-width:260px;
+}
+
+.dropdown-menu .progress-bar {
+    padding: 0 2px;
+    overflow:visible;
+    white-space:nowrap;
+}
+
+.dropdown-menu .progress-bar > div > span {
+    padding: 0 2px;
+    white-space:nowrap;
+    font-size:10px;
+    color:#3F3F3F;
+}
