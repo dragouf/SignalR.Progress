@@ -15,3 +15,5 @@ It's based on :
 - knockoutjs
 - signalR
 - C# 5.0 async/await with CancelToken and IProgress
+
+![alt text](http://i.stack.imgur.com/pQlet.png "App Screenshot")
